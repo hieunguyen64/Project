@@ -1,0 +1,19 @@
+=== v1.0.5 ===
+- Fixed WooCommerce Tabs issue
+- Compatibility check with latest WooCommerce
+
+=== v1.0.4 ===
+- Fixed preloader issue
+
+=== v1.0.3 ===
+- Minor Bugs Fixed
+- Changed Screenshot
+
+=== v1.0.2 ===
+- Minor refinements
+
+=== v1.0.1 ===
+- Minor Bugs Fixed
+
+=== v1.0.0 ===
+- Initial Release
